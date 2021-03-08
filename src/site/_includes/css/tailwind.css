@@ -174,12 +174,12 @@ html::-webkit-scrollbar-thumb {
 }
 
 ::selection {
-    background: #b2edd3;
+    background: #3a6457;
     /* WebKit/Blink Browsers */
 }
 
 ::-moz-selection {
-    background: #b2edd3;
+    background: #3a6457;
     /* Gecko Browsers */
 }
 
