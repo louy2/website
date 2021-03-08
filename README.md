@@ -61,7 +61,7 @@ description: |
 ```
 
 ~~The authors field can hold more than one author and is the name of the `json`
-file for the specific author in [`_data/team`](_data/team).~~
+file for the specific author in [`_data/team`](src/site/_data/team).~~
 
 Make sure to add a `description` to your post for the main pages as well as social 
 media cards.
@@ -82,7 +82,7 @@ Add a json file to [`_data/team`](data/team) in the following format:
 }
 ```
 
-The order for the team page is currently set in `_date/team/members.json`.
+Then add an entry to the ordered list in [`_data/team/members.json`](src/site/_data/team/members.json).
 
 ## Previewing the production build
 
