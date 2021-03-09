@@ -41,12 +41,12 @@ Bryan: -by C++. Now, that C++ actually drove you to hardware. That's great. Then
 00:05:07 Steve: Hardware's easy.
 00:05:09 Bryan: It would have allowed you to probably completely understand what was in front of you. Clearly, you were, even at young age, someone who really wanted to understand things.
 00:05:17 Star: I really wanted to understand things, yes.
-00:05:18 Bryan: [unintelligible 00:05:18].
+00:05:18 Bryan: At their root.
 00:05:19 Star: Yes. The book, I think, it was 21 Transistor-- I remember the final thing was mind-blowingly cool to me which was a circuit that had memory. You could unplug it and plug it back in. The four LED state would be the same.
 00:05:34 Bryan: Nice. It actually had persistence.
 00:05:36 Star: It had persistence. I think I put two copper wires on the board, so it had a touch input to increment the LED count.
 00:05:44 Bryan: That is great. Obviously, you felt a very deep resonance. Did you have an idea of what you wanted to go do at that point?
-00:05:52 Star: I had a vague but strongly directional idea. I didn't know exactly what because, again, I was still roughly as informed as the kid who was, "The programming, I don't know where to begin. I'm just reading everything I can." Yes, I was really lucky to be able to get into things like robotics or building potato canons with my best friend in the summer, various stuff of varying levels of sophistication or lack thereof. [chuckles] It all really drove me to I knew I wanted to make stuff for me that was going to be useful. I think that was the shape of my hope.
+00:05:52 Star: I had a vague but strongly directional idea. I didn't know exactly what because, again, I was still roughly as informed as the kid who was, "The programming, I don't know where to begin. I'm just reading everything I can." Yes, I was really lucky to be able to get into things like robotics or building potato canons with my best friend in the summer, various stuff of varying levels of sophistication or lack thereof. [chuckles] It all really drove me to I knew I wanted to make stuff for people that was going to be useful. I think that was the shape of my hope.
 00:06:28 Bryan: It's that engineer's calling to actually build something that people would actually use. What next? Did you head off to school?
 00:06:36 Star: I did. I went to MIT. I found out there were many levels of nerd.
 [laughter]
