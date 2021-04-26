@@ -22,7 +22,7 @@ As a software engineer working on the web console, you will:
 - **Learn about all layers of the stack** exposed to users through the web console: fault-tolerant distributed systems and databases that support virtual machines, network-based virtual storage devices, and virtual networks.
 - [**Code without fear**](https://jvns.ca/blog/2014/12/21/fear-makes-you-a-worse-programmer/), supported by continuous builds, tests, a constructive code-review process, and a supportive culture of identifying and fixing bugs. Learn about and contribute to other non-web areas of the product that interest you.
 
-These responsibilities are just a starting place! We’re a small company, we don’t have rigid roles, and we have a lot to do — we can help you grow wherever your interests take you.
+These responsibilities are just a starting place! We’re a small company, we don’t have rigid roles, and we have a lot to do -- we can help you grow wherever your interests take you.
 
 You will thrive in this role if you:
 
