@@ -16,6 +16,7 @@ As a software engineer working on the web console, you will:
 - **Work with engineers and designers** to understand customer use cases and define and implement the web interface to the Oxide platform.
 - **Build a React app** that feels as fast and simple as a CLI.
 - **Write code mostly in TypeScript**, read TypeScript and a bit of Rust. Rust experience is not required, but interest goes a long way.
+- **Debug API code** when it's not doing what you expect.
 - **Participate in usability testing** to refine the product.
 - **Write tooling** to help you and other developers move faster.
 - **Learn about all layers of the stack** exposed to users through the web console: fault-tolerant distributed systems and databases that support virtual machines, network-based virtual storage devices, and virtual networks.
@@ -25,12 +26,9 @@ These responsibilities are just a starting place! We’re a small company, we do
 
 You will thrive in this role if you:
 
-- Are an experienced, [product-minded](https://blog.pragmaticengineer.com/the-product-minded-engineer/) software generalist with a frontend focus.
 - Know web tech like JavaScript, HTML, and CSS.
 - Are excited about accessibility.
 - Have worked on single-page apps, but see [beyond](https://macwright.com/2020/05/10/spa-fatigue.html) the frameworks of the day.
-- Can debug backends when they’re not doing what you expect.
-- Are interested in TypeScript and other typed languages. Experience is helpful but not required.
 - Believe in fully documenting your ideas.
 - Enjoy reading the documentation produced by others.
 - Get excited about a wide range of technical topics and dig really deep into them.
